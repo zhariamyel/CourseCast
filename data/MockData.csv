@@ -1,0 +1,269 @@
+Course Code,Course Name,Department,Credits,Semester,Instructor,Capacity,Enrollment
+CHEM1150,General Chemistry I,Chemistry,2,Fall 2022,King,77,13
+CHEM1150,General Chemistry I,Chemistry,1,Spring 2023,Morris,118,79
+CHEM1150,General Chemistry I,Chemistry,2,Fall 2023,Cook,34,25
+CHEM1150,General Chemistry I,Chemistry,2,Spring 2024,Young,103,30
+CHEM1151,General Chemistry I Lab,Chemistry,3,Fall 2022,Morris,101,35
+CHEM1151,General Chemistry I Lab,Chemistry,1,Spring 2023,Wright,55,78
+CHEM1151,General Chemistry I Lab,Chemistry,2,Fall 2023,Alexander,118,19
+CHEM1151,General Chemistry I Lab,Chemistry,0,Spring 2024,Davis,87,20
+CHEM1160,General Chemistry II,Chemistry,1,Fall 2022,Campbell,47,62
+CHEM1160,General Chemistry II,Chemistry,1,Spring 2023,Murphy,81,81
+CHEM1160,General Chemistry II,Chemistry,4,Fall 2023,Washington,108,27
+CHEM1160,General Chemistry II,Chemistry,4,Spring 2024,Edwards,54,37
+MATH1100,College Algebra,Mathematics,4,Fall 2022,Collins,51,44
+MATH1100,College Algebra,Mathematics,1,Spring 2023,Taylor,88,49
+MATH1100,College Algebra,Mathematics,4,Fall 2023,Washington,96,37
+MATH1100,College Algebra,Mathematics,3,Spring 2024,King,87,46
+BIOL1100,Principles of Biology,Biology,4,Fall 2022,Hall,115,62
+BIOL1100,Principles of Biology,Biology,4,Spring 2023,Torres,57,48
+BIOL1100,Principles of Biology,Biology,2,Fall 2023,Harris,82,50
+BIOL1100,Principles of Biology,Biology,4,Spring 2024,Phillips,44,15
+BIOL1200,Principles of Biology II,Biology,3,Fall 2022,Evans,78,27
+BIOL1200,Principles of Biology II,Biology,0,Spring 2023,Hall,59,71
+BIOL1200,Principles of Biology II,Biology,1,Fall 2023,Stewart,30,17
+BIOL1200,Principles of Biology II,Biology,3,Spring 2024,Campbell,104,36
+PHYS1010,Introductory Physics I,Physics,4,Fall 2022,Brown,91,22
+PHYS1010,Introductory Physics I,Physics,1,Spring 2023,Collins,36,52
+PHYS1010,Introductory Physics I,Physics,5,Fall 2023,Brooks,43,20
+PHYS1010,Introductory Physics I,Physics,5,Spring 2024,Stewart,60,80
+PHYS1020,Introductory Physics II,Physics,2,Fall 2022,Cook,55,71
+PHYS1020,Introductory Physics II,Physics,4,Spring 2023,King,64,28
+PHYS1020,Introductory Physics II,Physics,2,Fall 2023,Johnson,45,78
+PHYS1020,Introductory Physics II,Physics,5,Spring 2024,Stewart,116,42
+ENGL1200,English Composition II,English,0,Fall 2022,Edwards,87,71
+ENGL1200,English Composition II,English,3,Spring 2023,Phillips,116,95
+ENGL1200,English Composition II,English,4,Fall 2023,Collins,32,25
+ENGL1200,English Composition II,English,0,Spring 2024,Walker,119,59
+HIST1110,World Civilization I,History,3,Fall 2022,King,66,18
+HIST1110,World Civilization I,History,3,Spring 2023,Parker,117,42
+HIST1110,World Civilization I,History,5,Fall 2023,Roberts,70,78
+HIST1110,World Civilization I,History,2,Spring 2024,Washington,78,52
+HIST1120,World Civilization II,History,5,Fall 2022,Roberts,34,60
+HIST1120,World Civilization II,History,2,Spring 2023,Gray,117,84
+HIST1120,World Civilization II,History,1,Fall 2023,Evans,111,78
+HIST1120,World Civilization II,History,1,Spring 2024,Adams,83,55
+PSYC1000,Introduction to Psychology,Psychology,0,Fall 2022,Parker,79,49
+PSYC1000,Introduction to Psychology,Psychology,0,Spring 2023,Hughes,62,55
+PSYC1000,Introduction to Psychology,Psychology,1,Fall 2023,Young,82,90
+PSYC1000,Introduction to Psychology,Psychology,2,Spring 2024,Parker,95,65
+SOCI2000,Introduction to Sociology,Sociology,4,Fall 2022,Roberts,36,60
+SOCI2000,Introduction to Sociology,Sociology,3,Spring 2023,Nelson,48,36
+SOCI2000,Introduction to Sociology,Sociology,0,Fall 2023,Evans,101,59
+SOCI2000,Introduction to Sociology,Sociology,2,Spring 2024,Stewart,120,95
+ACCT2010,Principles of Accounting I,Business,4,Fall 2022,Alexander,64,31
+ACCT2010,Principles of Accounting I,Business,3,Spring 2023,Phillips,64,56
+ACCT2010,Principles of Accounting I,Business,0,Fall 2023,Davis,91,41
+ACCT2010,Principles of Accounting I,Business,2,Spring 2024,Adams,109,21
+ACCT2020,Principles of Accounting II,Business,3,Fall 2022,Cook,104,96
+ACCT2020,Principles of Accounting II,Business,4,Spring 2023,Hall,102,14
+ACCT2020,Principles of Accounting II,Business,5,Fall 2023,Gray,48,27
+ACCT2020,Principles of Accounting II,Business,0,Spring 2024,Wright,54,83
+ECON2010,Principles of Microeconomics,Economics,1,Fall 2022,Thomas,89,52
+ECON2010,Principles of Microeconomics,Economics,4,Spring 2023,Harris,115,10
+ECON2010,Principles of Microeconomics,Economics,2,Fall 2023,Hughes,106,43
+ECON2010,Principles of Microeconomics,Economics,2,Spring 2024,Carter,41,81
+ECON2020,Principles of Macroeconomics,Economics,2,Fall 2022,Parker,36,13
+ECON2020,Principles of Macroeconomics,Economics,5,Spring 2023,Phillips,102,10
+ECON2020,Principles of Macroeconomics,Economics,0,Fall 2023,Murphy,30,27
+ECON2020,Principles of Macroeconomics,Economics,2,Spring 2024,Stewart,32,73
+COMM1000,Fundamentals of Speech,Communication,1,Fall 2022,Adams,87,35
+COMM1000,Fundamentals of Speech,Communication,3,Spring 2023,Jefferson,67,90
+COMM1000,Fundamentals of Speech,Communication,2,Fall 2023,Jackson,108,21
+COMM1000,Fundamentals of Speech,Communication,1,Spring 2024,Allen,82,14
+PHIL1010,Introduction to Philosophy,Philosophy,4,Fall 2022,Morris,86,34
+PHIL1010,Introduction to Philosophy,Philosophy,4,Spring 2023,King,48,46
+PHIL1010,Introduction to Philosophy,Philosophy,5,Fall 2023,Williams,62,10
+PHIL1010,Introduction to Philosophy,Philosophy,1,Spring 2024,Campbell,101,82
+SPAN1010,Elementary Spanish I,Languages,1,Fall 2022,Brown,42,53
+SPAN1010,Elementary Spanish I,Languages,4,Spring 2023,Edwards,32,57
+SPAN1010,Elementary Spanish I,Languages,0,Fall 2023,Phillips,96,44
+SPAN1010,Elementary Spanish I,Languages,4,Spring 2024,Wright,88,47
+CMST1010,Fundamentals of Public Speaking,Communication,0,Fall 2022,Stewart,48,22
+CMST1010,Fundamentals of Public Speaking,Communication,4,Spring 2023,Campbell,53,76
+CMST1010,Fundamentals of Public Speaking,Communication,1,Fall 2023,Young,101,64
+CMST1010,Fundamentals of Public Speaking,Communication,0,Spring 2024,Robinson,37,40
+CPSC1005,Intro to PCs and Software Applications,Computer Science,0,Fall 2022,Brown,83,81
+CPSC1005,Intro to PCs and Software Applications,Computer Science,3,Spring 2023,Harris,57,55
+CPSC1005,Intro to PCs and Software Applications,Computer Science,1,Fall 2023,Turner,34,46
+CPSC1005,Intro to PCs and Software Applications,Computer Science,4,Spring 2024,Taylor,118,81
+PSYC1010,Introduction to Psychology,Psychology,3,Fall 2022,Gray,104,38
+PSYC1010,Introduction to Psychology,Psychology,2,Spring 2023,Parker,95,68
+PSYC1010,Introduction to Psychology,Psychology,4,Fall 2023,Mitchell,106,50
+PSYC1010,Introduction to Psychology,Psychology,2,Spring 2024,Robinson,74,43
+CPSC1724,Intro to Computer Science,Computer Science,0,Fall 2022,Jefferson,77,10
+CPSC1724,Intro to Computer Science,Computer Science,2,Spring 2023,Roberts,107,18
+CPSC1724,Intro to Computer Science,Computer Science,0,Fall 2023,Brown,54,87
+CPSC1724,Intro to Computer Science,Computer Science,4,Spring 2024,Walker,34,57
+ENGL1010,English Composition and Rhetoric,English,0,Fall 2022,Adams,108,75
+ENGL1010,English Composition and Rhetoric,English,5,Spring 2023,Thomas,95,97
+ENGL1010,English Composition and Rhetoric,English,3,Fall 2023,Bell,114,96
+ENGL1010,English Composition and Rhetoric,English,0,Spring 2024,Moore,49,20
+FINC1070,Personal Finance,Finance,0,Fall 2022,Young,83,38
+FINC1070,Personal Finance,Finance,1,Spring 2023,Taylor,85,12
+FINC1070,Personal Finance,Finance,0,Fall 2023,Carter,66,23
+FINC1070,Personal Finance,Finance,2,Spring 2024,Cook,116,36
+HIST1030,World Civilizations to 1500,History,0,Fall 2022,Jackson,57,52
+HIST1030,World Civilizations to 1500,History,1,Spring 2023,Stewart,89,79
+HIST1030,World Civilizations to 1500,History,2,Fall 2023,Adams,120,45
+HIST1030,World Civilizations to 1500,History,1,Spring 2024,Morris,94,64
+MATH1030I,Intensive Precalculus,Mathematics,3,Fall 2022,Cook,57,55
+MATH1030I,Intensive Precalculus,Mathematics,3,Spring 2023,Turner,43,86
+MATH1030I,Intensive Precalculus,Mathematics,2,Fall 2023,Hughes,116,22
+MATH1030I,Intensive Precalculus,Mathematics,0,Spring 2024,Murphy,86,70
+XCOR1000,College Experience,Core Experience,1,Fall 2022,Campbell,61,28
+XCOR1000,College Experience,Core Experience,4,Spring 2023,Harris,55,22
+XCOR1000,College Experience,Core Experience,2,Fall 2023,Scott,88,94
+XCOR1000,College Experience,Core Experience,3,Spring 2024,Hughes,118,90
+CPSC2735,Data Structures and Lab,Computer Science,5,Fall 2022,Torres,74,15
+CPSC2735,Data Structures and Lab,Computer Science,2,Spring 2023,Green,108,73
+CPSC2735,Data Structures and Lab,Computer Science,2,Fall 2023,Alexander,92,44
+CPSC2735,Data Structures and Lab,Computer Science,2,Spring 2024,Wright,89,80
+ENGL1020,English Composition and Literature,English,5,Fall 2022,Harris,101,66
+ENGL1020,English Composition and Literature,English,0,Spring 2023,Walker,103,97
+ENGL1020,English Composition and Literature,English,2,Fall 2023,Cook,48,75
+ENGL1020,English Composition and Literature,English,0,Spring 2024,Campbell,47,41
+MATH1070,Introductory Calculus,Mathematics,0,Fall 2022,White,67,93
+MATH1070,Introductory Calculus,Mathematics,2,Spring 2023,Gray,95,81
+MATH1070,Introductory Calculus,Mathematics,5,Fall 2023,Bell,97,29
+MATH1070,Introductory Calculus,Mathematics,2,Spring 2024,Murphy,44,81
+PHIL1040,Happiness and the Meaning of Life,Philosophy,4,Fall 2022,Young,87,36
+PHIL1040,Happiness and the Meaning of Life,Philosophy,4,Spring 2023,Hall,100,44
+PHIL1040,Happiness and the Meaning of Life,Philosophy,2,Fall 2023,Scott,45,47
+PHIL1040,Happiness and the Meaning of Life,Philosophy,1,Spring 2024,Hall,51,18
+ART1010,Design I,Art,3,Fall 2022,Taylor,46,60
+ART1010,Design I,Art,3,Spring 2023,Williams,30,81
+ART1010,Design I,Art,2,Fall 2023,Jackson,34,15
+ART1010,Design I,Art,3,Spring 2024,Green,53,54
+CPSC2740,Software Development,Computer Science,5,Fall 2022,Nelson,72,86
+CPSC2740,Software Development,Computer Science,0,Spring 2023,Edwards,75,13
+CPSC2740,Software Development,Computer Science,0,Fall 2023,Campbell,106,93
+CPSC2740,Software Development,Computer Science,3,Spring 2024,Young,48,39
+MSCM2590,Black Cinema,Media Studies,0,Fall 2022,Torres,80,71
+MSCM2590,Black Cinema,Media Studies,5,Spring 2023,Hall,102,14
+MSCM2590,Black Cinema,Media Studies,0,Fall 2023,Moore,87,33
+MSCM2590,Black Cinema,Media Studies,2,Spring 2024,White,52,51
+PHIL2040,Logic,Philosophy,3,Fall 2022,Torres,48,49
+PHIL2040,Logic,Philosophy,3,Spring 2023,Moore,53,34
+PHIL2040,Logic,Philosophy,0,Fall 2023,Williams,113,55
+PHIL2040,Logic,Philosophy,3,Spring 2024,Hughes,103,12
+STAT2010,Statistical Methods I,Mathematics,2,Fall 2022,Adams,102,33
+STAT2010,Statistical Methods I,Mathematics,2,Spring 2023,Turner,106,73
+STAT2010,Statistical Methods I,Mathematics,2,Fall 2023,Roberts,58,68
+STAT2010,Statistical Methods I,Mathematics,2,Spring 2024,Davis,93,46
+THEO1100,The Christian Faith,Theology,0,Fall 2022,Bell,64,80
+THEO1100,The Christian Faith,Theology,1,Spring 2023,Williams,119,62
+THEO1100,The Christian Faith,Theology,0,Fall 2023,Baker,30,10
+THEO1100,The Christian Faith,Theology,0,Spring 2024,Nelson,102,17
+CPSC2120,Computer Organization and Architecture,Computer Science,0,Fall 2022,Johnson,74,68
+CPSC2120,Computer Organization and Architecture,Computer Science,1,Spring 2023,King,115,64
+CPSC2120,Computer Organization and Architecture,Computer Science,0,Fall 2023,Baker,65,23
+CPSC2120,Computer Organization and Architecture,Computer Science,2,Spring 2024,Washington,114,46
+CPSC3710,Database Systems,Computer Science,0,Fall 2022,Taylor,35,33
+CPSC3710,Database Systems,Computer Science,0,Spring 2023,Baker,76,37
+CPSC3710,Database Systems,Computer Science,1,Fall 2023,Murphy,37,16
+CPSC3710,Database Systems,Computer Science,4,Spring 2024,Adams,44,51
+ENGL3185,Black Hair Narratives,English,1,Fall 2022,Turner,117,46
+ENGL3185,Black Hair Narratives,English,2,Spring 2023,Morris,110,65
+ENGL3185,Black Hair Narratives,English,3,Fall 2023,Walker,50,54
+ENGL3185,Black Hair Narratives,English,4,Spring 2024,Evans,101,74
+MATH2030,Elementary Linear Algebra,Mathematics,3,Fall 2022,Turner,74,89
+MATH2030,Elementary Linear Algebra,Mathematics,5,Spring 2023,Baker,46,44
+MATH2030,Elementary Linear Algebra,Mathematics,1,Fall 2023,Williams,52,18
+MATH2030,Elementary Linear Algebra,Mathematics,5,Spring 2024,Roberts,31,68
+MSCM2400,Social Media,Media Studies,5,Fall 2022,Morris,109,66
+MSCM2400,Social Media,Media Studies,5,Spring 2023,Evans,71,18
+MSCM2400,Social Media,Media Studies,2,Fall 2023,Jefferson,53,71
+MSCM2400,Social Media,Media Studies,2,Spring 2024,Phillips,106,14
+BIOL1030,General Biology (Non-Science Major),Biology,1,Fall 2022,Phillips,108,75
+BIOL1030,General Biology (Non-Science Major),Biology,4,Spring 2023,King,37,19
+BIOL1030,General Biology (Non-Science Major),Biology,5,Fall 2023,Hughes,74,80
+BIOL1030,General Biology (Non-Science Major),Biology,0,Spring 2024,Williams,59,91
+BIOL1030L,General Biology Lab (Non-Science Major),Biology,2,Fall 2022,Green,36,58
+BIOL1030L,General Biology Lab (Non-Science Major),Biology,3,Spring 2023,Wright,113,30
+BIOL1030L,General Biology Lab (Non-Science Major),Biology,3,Fall 2023,Collins,57,77
+BIOL1030L,General Biology Lab (Non-Science Major),Biology,3,Spring 2024,Moore,101,98
+CPSC3140,Operating Systems,Computer Science,4,Fall 2022,King,113,72
+CPSC3140,Operating Systems,Computer Science,1,Spring 2023,Green,101,26
+CPSC3140,Operating Systems,Computer Science,4,Fall 2023,Young,97,86
+CPSC3140,Operating Systems,Computer Science,3,Spring 2024,Davis,106,35
+CPSC3603,Special Topics: Mobile App Development,Computer Science,2,Fall 2022,Evans,107,76
+CPSC3603,Special Topics: Mobile App Development,Computer Science,3,Spring 2023,Washington,50,67
+CPSC3603,Special Topics: Mobile App Development,Computer Science,2,Fall 2023,Green,116,97
+CPSC3603,Special Topics: Mobile App Development,Computer Science,3,Spring 2024,Brooks,62,64
+MATH2550,Discrete Structures for Computer Science,Mathematics,4,Fall 2022,Gray,79,67
+MATH2550,Discrete Structures for Computer Science,Mathematics,0,Spring 2023,Walker,50,73
+MATH2550,Discrete Structures for Computer Science,Mathematics,2,Fall 2023,Torres,39,13
+MATH2550,Discrete Structures for Computer Science,Mathematics,5,Spring 2024,Adams,77,91
+XCOR3010,"Dystopia, Real and Imagined",Core Experience,2,Fall 2022,Davis,95,57
+XCOR3010,"Dystopia, Real and Imagined",Core Experience,4,Spring 2023,Brown,100,17
+XCOR3010,"Dystopia, Real and Imagined",Core Experience,0,Fall 2023,Stewart,100,84
+XCOR3010,"Dystopia, Real and Imagined",Core Experience,4,Spring 2024,Alexander,103,83
+XCOR3020,Afro-Latin America and LA Oral Traditions,Core Experience,3,Fall 2022,Evans,107,24
+XCOR3020,Afro-Latin America and LA Oral Traditions,Core Experience,5,Spring 2023,Thomas,59,90
+XCOR3020,Afro-Latin America and LA Oral Traditions,Core Experience,2,Fall 2023,Hall,40,15
+XCOR3020,Afro-Latin America and LA Oral Traditions,Core Experience,5,Spring 2024,Evans,61,69
+CPSC3060,Design and Analysis of Algorithms,Computer Science,0,Fall 2022,Taylor,45,89
+CPSC3060,Design and Analysis of Algorithms,Computer Science,3,Spring 2023,Gray,113,81
+CPSC3060,Design and Analysis of Algorithms,Computer Science,3,Fall 2023,Torres,79,41
+CPSC3060,Design and Analysis of Algorithms,Computer Science,1,Spring 2024,Parker,87,30
+CPSC3603,Special Topics: Bioinformatics Computing,Computer Science,4,Fall 2022,Parker,59,13
+CPSC3603,Special Topics: Bioinformatics Computing,Computer Science,0,Spring 2023,Turner,59,71
+CPSC3603,Special Topics: Bioinformatics Computing,Computer Science,0,Fall 2023,Nelson,30,66
+CPSC3603,Special Topics: Bioinformatics Computing,Computer Science,2,Spring 2024,Jefferson,82,48
+CPSC4800,Capstone Project I,Computer Science,3,Fall 2022,Young,40,18
+CPSC4800,Capstone Project I,Computer Science,5,Spring 2023,Bell,108,15
+CPSC4800,Capstone Project I,Computer Science,1,Fall 2023,Stewart,104,96
+CPSC4800,Capstone Project I,Computer Science,4,Spring 2024,Carter,117,48
+MGMT3160,Project Management,Business,2,Fall 2022,Robinson,66,16
+MGMT3160,Project Management,Business,4,Spring 2023,Morris,86,81
+MGMT3160,Project Management,Business,4,Fall 2023,Hall,51,90
+MGMT3160,Project Management,Business,5,Spring 2024,Turner,88,23
+STAT2021,Statistical Methods II,Mathematics,5,Fall 2022,Cook,114,15
+STAT2021,Statistical Methods II,Mathematics,4,Spring 2023,Walker,113,27
+STAT2021,Statistical Methods II,Mathematics,0,Fall 2023,Cook,74,35
+STAT2021,Statistical Methods II,Mathematics,1,Spring 2024,Gray,99,94
+CPSC3603,Special Topics: Data Analytics,Computer Science,4,Fall 2022,Taylor,80,56
+CPSC3603,Special Topics: Data Analytics,Computer Science,3,Spring 2023,Murphy,72,100
+CPSC3603,Special Topics: Data Analytics,Computer Science,2,Fall 2023,Gray,80,57
+CPSC3603,Special Topics: Data Analytics,Computer Science,2,Spring 2024,Wright,61,32
+CPSC3900,Computer Science Internship I,Computer Science,2,Fall 2022,Jackson,54,56
+CPSC3900,Computer Science Internship I,Computer Science,4,Spring 2023,Stewart,98,55
+CPSC3900,Computer Science Internship I,Computer Science,2,Fall 2023,Phillips,41,15
+CPSC3900,Computer Science Internship I,Computer Science,5,Spring 2024,Phillips,103,23
+ENGL4060S,Black Gothic Literature,English,4,Fall 2022,Bell,114,68
+ENGL4060S,Black Gothic Literature,English,4,Spring 2023,Thomas,57,64
+ENGL4060S,Black Gothic Literature,English,5,Fall 2023,Phillips,110,70
+ENGL4060S,Black Gothic Literature,English,2,Spring 2024,Phillips,75,93
+SPAN1010,Elementary Spanish,Languages,0,Fall 2022,Jackson,116,29
+SPAN1010,Elementary Spanish,Languages,2,Spring 2023,Hall,61,67
+SPAN1010,Elementary Spanish,Languages,3,Fall 2023,Thomas,104,74
+SPAN1010,Elementary Spanish,Languages,5,Spring 2024,White,81,80
+AADS2000,Introduction to African American History and Culture,African American Studies,2,Fall 2022,White,37,53
+AADS2000,Introduction to African American History and Culture,African American Studies,3,Spring 2023,Nelson,53,83
+AADS2000,Introduction to African American History and Culture,African American Studies,4,Fall 2023,White,66,20
+AADS2000,Introduction to African American History and Culture,African American Studies,5,Spring 2024,Morris,58,96
+ART2110,History of Art I,Art,4,Fall 2022,Harris,99,59
+ART2110,History of Art I,Art,5,Spring 2023,Brooks,34,14
+ART2110,History of Art I,Art,0,Fall 2023,Brooks,53,92
+ART2110,History of Art I,Art,0,Spring 2024,Parker,30,46
+CHIN1010,Elementary Chinese,Languages,5,Fall 2022,Jackson,103,78
+CHIN1010,Elementary Chinese,Languages,5,Spring 2023,Robinson,66,82
+CHIN1010,Elementary Chinese,Languages,5,Fall 2023,Parker,85,40
+CHIN1010,Elementary Chinese,Languages,2,Spring 2024,Davis,64,52
+CPSC4805,Capstone Project II,Computer Science,0,Fall 2022,Allen,44,49
+CPSC4805,Capstone Project II,Computer Science,2,Spring 2023,Jackson,116,11
+CPSC4805,Capstone Project II,Computer Science,4,Fall 2023,Taylor,107,99
+CPSC4805,Capstone Project II,Computer Science,1,Spring 2024,Alexander,55,78
+CPSC4999,Senior Comprehensives,Computer Science,2,Fall 2022,Campbell,74,99
+CPSC4999,Senior Comprehensives,Computer Science,1,Spring 2023,Williams,61,66
+CPSC4999,Senior Comprehensives,Computer Science,1,Fall 2023,Phillips,57,53
+CPSC4999,Senior Comprehensives,Computer Science,2,Spring 2024,Adams,103,81
+CPSC4999P,Senior Comprehensives Programming,Computer Science,1,Fall 2022,Hughes,87,24
+CPSC4999P,Senior Comprehensives Programming,Computer Science,3,Spring 2023,Parker,36,70
+CPSC4999P,Senior Comprehensives Programming,Computer Science,1,Fall 2023,Carter,119,47
+CPSC4999P,Senior Comprehensives Programming,Computer Science,4,Spring 2024,Morris,120,20
+XCOR3010,"Race, Culture, and Communication",Core Experience,5,Fall 2022,Brooks,104,29
+XCOR3010,"Race, Culture, and Communication",Core Experience,1,Spring 2023,King,95,29
+XCOR3010,"Race, Culture, and Communication",Core Experience,0,Fall 2023,Bell,56,16
+XCOR3010,"Race, Culture, and Communication",Core Experience,3,Spring 2024,Mitchell,112,98
