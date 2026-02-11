@@ -1,0 +1,269 @@
+Course Code,Course Name,Department,Credits,Semester,Year,Instructor,Capacity,Enrollment,Modalities
+CHEM1150,General Chemistry I,Chemistry,3,Fall,2022,Jefferson,55,10,In-Person
+CHEM1150,General Chemistry I,Chemistry,2,Spring,2022,Davis,100,34,Online
+CHEM1150,General Chemistry I,Chemistry,0,Fall,2022,Roberts,98,60,In-Person
+CHEM1150,General Chemistry I,Chemistry,1,Spring,2023,Jackson,74,74,Online
+CHEM1151,General Chemistry I Lab,Chemistry,3,Fall,2022,Bell,69,64,Online
+CHEM1151,General Chemistry I Lab,Chemistry,2,Spring,2023,Mitchell,108,97,In-Person
+CHEM1151,General Chemistry I Lab,Chemistry,5,Fall,2023,Hall,54,33,In-Person
+CHEM1151,General Chemistry I Lab,Chemistry,0,Spring,2023,Walker,101,79,Online
+CHEM1160,General Chemistry II,Chemistry,2,Fall,2024,Evans,100,74,Hybrid
+CHEM1160,General Chemistry II,Chemistry,4,Spring,2022,Young,89,62,In-Person
+CHEM1160,General Chemistry II,Chemistry,2,Fall,2022,Davis,33,67,Hybrid
+CHEM1160,General Chemistry II,Chemistry,5,Spring,2023,Hall,75,84,Online
+MATH1100,College Algebra,Mathematics,4,Fall,2023,Hughes,60,36,Online
+MATH1100,College Algebra,Mathematics,0,Spring,2024,Collins,77,57,In-Person
+MATH1100,College Algebra,Mathematics,2,Fall,2023,Campbell,119,84,Hybrid
+MATH1100,College Algebra,Mathematics,5,Spring,2024,Morris,78,92,In-Person
+BIOL1100,Principles of Biology,Biology,1,Fall,2023,Brown,33,16,Online
+BIOL1100,Principles of Biology,Biology,1,Spring,2024,Baker,55,63,In-Person
+BIOL1100,Principles of Biology,Biology,5,Fall,2023,Roberts,87,86,In-Person
+BIOL1100,Principles of Biology,Biology,4,Spring,2023,Alexander,90,35,Hybrid
+BIOL1200,Principles of Biology II,Biology,4,Fall,2023,Torres,48,51,In-Person
+BIOL1200,Principles of Biology II,Biology,4,Spring,2023,Brown,70,59,Hybrid
+BIOL1200,Principles of Biology II,Biology,2,Fall,2024,Turner,91,80,Hybrid
+BIOL1200,Principles of Biology II,Biology,2,Spring,2023,Collins,32,16,Hybrid
+PHYS1010,Introductory Physics I,Physics,0,Fall,2023,Cook,85,47,In-Person
+PHYS1010,Introductory Physics I,Physics,1,Spring,2022,Green,44,81,Hybrid
+PHYS1010,Introductory Physics I,Physics,2,Fall,2023,Scott,65,79,Hybrid
+PHYS1010,Introductory Physics I,Physics,0,Spring,2023,Jefferson,120,51,Hybrid
+PHYS1020,Introductory Physics II,Physics,1,Fall,2023,Allen,54,73,In-Person
+PHYS1020,Introductory Physics II,Physics,5,Spring,2023,Evans,53,85,Online
+PHYS1020,Introductory Physics II,Physics,4,Fall,2023,Phillips,43,39,Online
+PHYS1020,Introductory Physics II,Physics,5,Spring,2023,Harris,105,35,In-Person
+ENGL1200,English Composition II,English,5,Fall,2023,Harris,92,27,Online
+ENGL1200,English Composition II,English,2,Spring,2023,Jefferson,60,49,Online
+ENGL1200,English Composition II,English,5,Fall,2023,Campbell,56,82,Hybrid
+ENGL1200,English Composition II,English,3,Spring,2023,Allen,98,27,Online
+HIST1110,World Civilization I,History,2,Fall,2023,Murphy,54,98,In-Person
+HIST1110,World Civilization I,History,4,Spring,2022,Bell,44,51,Online
+HIST1110,World Civilization I,History,0,Fall,2023,Campbell,52,76,Hybrid
+HIST1110,World Civilization I,History,5,Spring,2023,Evans,105,38,Online
+HIST1120,World Civilization II,History,0,Fall,2023,Collins,37,84,Online
+HIST1120,World Civilization II,History,5,Spring,2022,Young,52,44,In-Person
+HIST1120,World Civilization II,History,4,Fall,2024,Gray,117,10,In-Person
+HIST1120,World Civilization II,History,5,Spring,2024,Edwards,38,75,Hybrid
+PSYC1000,Introduction to Psychology,Psychology,0,Fall,2023,Allen,45,100,Hybrid
+PSYC1000,Introduction to Psychology,Psychology,0,Spring,2023,Jackson,118,63,Online
+PSYC1000,Introduction to Psychology,Psychology,1,Fall,2024,Davis,71,89,Online
+PSYC1000,Introduction to Psychology,Psychology,3,Spring,2023,Washington,96,50,Online
+SOCI2000,Introduction to Sociology,Sociology,1,Fall,2023,Phillips,67,91,Online
+SOCI2000,Introduction to Sociology,Sociology,2,Spring,2024,Washington,95,97,In-Person
+SOCI2000,Introduction to Sociology,Sociology,5,Fall,2024,Davis,43,10,In-Person
+SOCI2000,Introduction to Sociology,Sociology,4,Spring,2024,Williams,77,67,Hybrid
+ACCT2010,Principles of Accounting I,Business,5,Fall,2024,Thomas,82,88,Hybrid
+ACCT2010,Principles of Accounting I,Business,2,Spring,2023,Jackson,90,47,Hybrid
+ACCT2010,Principles of Accounting I,Business,4,Fall,2024,Thomas,85,78,In-Person
+ACCT2010,Principles of Accounting I,Business,4,Spring,2023,Hall,67,20,In-Person
+ACCT2020,Principles of Accounting II,Business,4,Fall,2023,Scott,89,87,Hybrid
+ACCT2020,Principles of Accounting II,Business,0,Spring,2023,Thomas,118,29,Hybrid
+ACCT2020,Principles of Accounting II,Business,1,Fall,2023,Edwards,95,88,In-Person
+ACCT2020,Principles of Accounting II,Business,2,Spring,2024,Taylor,91,54,Online
+ECON2010,Principles of Microeconomics,Economics,5,Fall,2024,Wright,73,10,In-Person
+ECON2010,Principles of Microeconomics,Economics,2,Spring,2023,Taylor,38,36,Hybrid
+ECON2010,Principles of Microeconomics,Economics,4,Fall,2023,Roberts,35,76,Online
+ECON2010,Principles of Microeconomics,Economics,3,Spring,2022,Stewart,75,88,Online
+ECON2020,Principles of Macroeconomics,Economics,2,Fall,2022,Cook,55,69,Hybrid
+ECON2020,Principles of Macroeconomics,Economics,3,Spring,2024,Johnson,89,24,In-Person
+ECON2020,Principles of Macroeconomics,Economics,3,Fall,2022,Allen,62,86,Hybrid
+ECON2020,Principles of Macroeconomics,Economics,4,Spring,2023,Campbell,35,51,Online
+COMM1000,Fundamentals of Speech,Communication,5,Fall,2022,Phillips,100,81,Hybrid
+COMM1000,Fundamentals of Speech,Communication,0,Spring,2024,Williams,113,77,Online
+COMM1000,Fundamentals of Speech,Communication,1,Fall,2023,Washington,64,92,Online
+COMM1000,Fundamentals of Speech,Communication,0,Spring,2024,King,44,95,Hybrid
+PHIL1010,Introduction to Philosophy,Philosophy,1,Fall,2023,Edwards,84,71,In-Person
+PHIL1010,Introduction to Philosophy,Philosophy,1,Spring,2023,Phillips,83,53,Online
+PHIL1010,Introduction to Philosophy,Philosophy,1,Fall,2023,Baker,44,38,In-Person
+PHIL1010,Introduction to Philosophy,Philosophy,5,Spring,2024,Collins,119,53,Hybrid
+SPAN1010,Elementary Spanish I,Languages,0,Fall,2024,Harris,32,53,In-Person
+SPAN1010,Elementary Spanish I,Languages,5,Spring,2022,Thomas,115,99,In-Person
+SPAN1010,Elementary Spanish I,Languages,0,Fall,2023,Thomas,33,83,In-Person
+SPAN1010,Elementary Spanish I,Languages,1,Spring,2023,Torres,101,56,Hybrid
+CMST1010,Fundamentals of Public Speaking,Communication,1,Fall,2024,White,68,96,Online
+CMST1010,Fundamentals of Public Speaking,Communication,0,Spring,2022,Collins,103,65,Hybrid
+CMST1010,Fundamentals of Public Speaking,Communication,5,Fall,2023,Evans,43,93,Online
+CMST1010,Fundamentals of Public Speaking,Communication,4,Spring,2023,Stewart,99,64,Hybrid
+CPSC1005,Intro to PCs and Software Applications,Computer Science,3,Fall,2024,Taylor,33,84,Online
+CPSC1005,Intro to PCs and Software Applications,Computer Science,4,Spring,2022,Baker,72,93,Online
+CPSC1005,Intro to PCs and Software Applications,Computer Science,3,Fall,2024,Edwards,78,75,Hybrid
+CPSC1005,Intro to PCs and Software Applications,Computer Science,3,Spring,2023,Taylor,101,40,In-Person
+PSYC1010,Introduction to Psychology,Psychology,0,Fall,2024,White,39,73,Online
+PSYC1010,Introduction to Psychology,Psychology,4,Spring,2024,Parker,88,56,In-Person
+PSYC1010,Introduction to Psychology,Psychology,5,Fall,2023,Nelson,111,99,Hybrid
+PSYC1010,Introduction to Psychology,Psychology,1,Spring,2024,Young,80,38,In-Person
+CPSC1724,Intro to Computer Science,Computer Science,1,Fall,2023,Phillips,110,81,Online
+CPSC1724,Intro to Computer Science,Computer Science,2,Spring,2024,Williams,99,36,Online
+CPSC1724,Intro to Computer Science,Computer Science,1,Fall,2023,Morris,119,93,Online
+CPSC1724,Intro to Computer Science,Computer Science,1,Spring,2024,Baker,105,25,In-Person
+ENGL1010,English Composition and Rhetoric,English,0,Fall,2023,Walker,104,100,In-Person
+ENGL1010,English Composition and Rhetoric,English,5,Spring,2023,Green,47,57,Online
+ENGL1010,English Composition and Rhetoric,English,3,Fall,2024,Adams,110,67,Hybrid
+ENGL1010,English Composition and Rhetoric,English,3,Spring,2023,Mitchell,95,15,Hybrid
+FINC1070,Personal Finance,Finance,1,Fall,2024,Young,41,11,In-Person
+FINC1070,Personal Finance,Finance,2,Spring,2023,Wright,52,80,In-Person
+FINC1070,Personal Finance,Finance,1,Fall,2022,Alexander,63,40,Online
+FINC1070,Personal Finance,Finance,2,Spring,2024,Edwards,56,37,Online
+HIST1030,World Civilizations to 1500,History,1,Fall,2024,Stewart,56,55,Hybrid
+HIST1030,World Civilizations to 1500,History,1,Spring,2024,Taylor,102,39,Hybrid
+HIST1030,World Civilizations to 1500,History,0,Fall,2023,Nelson,34,25,Online
+HIST1030,World Civilizations to 1500,History,2,Spring,2023,Scott,77,93,Hybrid
+MATH1030I,Intensive Precalculus,Mathematics,4,Fall,2023,Davis,104,87,Online
+MATH1030I,Intensive Precalculus,Mathematics,3,Spring,2022,Jefferson,86,32,Hybrid
+MATH1030I,Intensive Precalculus,Mathematics,2,Fall,2022,Morris,107,30,In-Person
+MATH1030I,Intensive Precalculus,Mathematics,3,Spring,2023,Campbell,98,88,Hybrid
+XCOR1000,College Experience,Core Experience,4,Fall,2023,Bell,40,84,Online
+XCOR1000,College Experience,Core Experience,4,Spring,2023,Nelson,119,52,In-Person
+XCOR1000,College Experience,Core Experience,1,Fall,2023,Phillips,59,41,In-Person
+XCOR1000,College Experience,Core Experience,4,Spring,2024,Mitchell,63,47,In-Person
+CPSC2735,Data Structures and Lab,Computer Science,5,Fall,2023,Carter,96,50,Hybrid
+CPSC2735,Data Structures and Lab,Computer Science,0,Spring,2023,Walker,33,18,Hybrid
+CPSC2735,Data Structures and Lab,Computer Science,0,Fall,2022,Williams,110,10,In-Person
+CPSC2735,Data Structures and Lab,Computer Science,2,Spring,2022,Alexander,87,81,Online
+ENGL1020,English Composition and Literature,English,3,Fall,2022,Collins,41,59,In-Person
+ENGL1020,English Composition and Literature,English,3,Spring,2024,Carter,40,18,Hybrid
+ENGL1020,English Composition and Literature,English,1,Fall,2022,Thomas,93,11,In-Person
+ENGL1020,English Composition and Literature,English,1,Spring,2023,Phillips,91,21,In-Person
+MATH1070,Introductory Calculus,Mathematics,1,Fall,2024,Turner,82,45,Hybrid
+MATH1070,Introductory Calculus,Mathematics,3,Spring,2023,Wright,66,100,Online
+MATH1070,Introductory Calculus,Mathematics,1,Fall,2023,Baker,82,16,In-Person
+MATH1070,Introductory Calculus,Mathematics,4,Spring,2023,Scott,46,27,Online
+PHIL1040,Happiness and the Meaning of Life,Philosophy,0,Fall,2023,Gray,81,47,Online
+PHIL1040,Happiness and the Meaning of Life,Philosophy,5,Spring,2023,Stewart,77,27,Online
+PHIL1040,Happiness and the Meaning of Life,Philosophy,4,Fall,2023,Evans,107,36,Hybrid
+PHIL1040,Happiness and the Meaning of Life,Philosophy,1,Spring,2023,Phillips,98,55,In-Person
+ART1010,Design I,Art,4,Fall,2024,King,105,45,Hybrid
+ART1010,Design I,Art,3,Spring,2024,Jackson,47,25,Online
+ART1010,Design I,Art,0,Fall,2024,Hughes,96,32,Online
+ART1010,Design I,Art,4,Spring,2023,Murphy,65,80,In-Person
+CPSC2740,Software Development,Computer Science,4,Fall,2023,Jefferson,73,24,Online
+CPSC2740,Software Development,Computer Science,5,Spring,2022,Phillips,56,36,In-Person
+CPSC2740,Software Development,Computer Science,1,Fall,2024,Robinson,107,97,In-Person
+CPSC2740,Software Development,Computer Science,1,Spring,2022,Scott,32,69,Online
+MSCM2590,Black Cinema,Media Studies,1,Fall,2023,Taylor,35,25,Hybrid
+MSCM2590,Black Cinema,Media Studies,1,Spring,2024,Adams,58,30,In-Person
+MSCM2590,Black Cinema,Media Studies,4,Fall,2022,Phillips,50,28,Hybrid
+MSCM2590,Black Cinema,Media Studies,4,Spring,2023,Brown,69,83,In-Person
+PHIL2040,Logic,Philosophy,4,Fall,2023,Taylor,120,65,In-Person
+PHIL2040,Logic,Philosophy,2,Spring,2024,Bell,62,24,Online
+PHIL2040,Logic,Philosophy,4,Fall,2023,Green,39,13,In-Person
+PHIL2040,Logic,Philosophy,2,Spring,2024,Morris,54,98,Online
+STAT2010,Statistical Methods I,Mathematics,1,Fall,2022,Hughes,120,72,In-Person
+STAT2010,Statistical Methods I,Mathematics,3,Spring,2023,Taylor,62,100,Hybrid
+STAT2010,Statistical Methods I,Mathematics,1,Fall,2023,Johnson,79,71,Hybrid
+STAT2010,Statistical Methods I,Mathematics,0,Spring,2023,Roberts,47,27,Hybrid
+THEO1100,The Christian Faith,Theology,4,Fall,2023,Brooks,89,61,Online
+THEO1100,The Christian Faith,Theology,4,Spring,2023,Jackson,101,72,Online
+THEO1100,The Christian Faith,Theology,4,Fall,2023,Taylor,116,88,Online
+THEO1100,The Christian Faith,Theology,2,Spring,2023,Adams,51,16,Hybrid
+CPSC2120,Computer Organization and Architecture,Computer Science,5,Fall,2024,Edwards,46,66,Online
+CPSC2120,Computer Organization and Architecture,Computer Science,5,Spring,2023,Allen,43,52,Hybrid
+CPSC2120,Computer Organization and Architecture,Computer Science,4,Fall,2022,Evans,74,99,Hybrid
+CPSC2120,Computer Organization and Architecture,Computer Science,3,Spring,2022,Stewart,110,73,Online
+CPSC3710,Database Systems,Computer Science,2,Fall,2023,Baker,84,25,Hybrid
+CPSC3710,Database Systems,Computer Science,3,Spring,2023,Taylor,37,91,In-Person
+CPSC3710,Database Systems,Computer Science,0,Fall,2023,Wright,38,68,Online
+CPSC3710,Database Systems,Computer Science,0,Spring,2024,Allen,75,36,Hybrid
+ENGL3185,Black Hair Narratives,English,4,Fall,2023,Young,98,87,In-Person
+ENGL3185,Black Hair Narratives,English,4,Spring,2023,Turner,90,90,Hybrid
+ENGL3185,Black Hair Narratives,English,3,Fall,2022,Williams,33,90,Hybrid
+ENGL3185,Black Hair Narratives,English,1,Spring,2023,Edwards,66,41,Online
+MATH2030,Elementary Linear Algebra,Mathematics,1,Fall,2022,Hall,90,64,Hybrid
+MATH2030,Elementary Linear Algebra,Mathematics,0,Spring,2024,Hughes,68,95,Online
+MATH2030,Elementary Linear Algebra,Mathematics,1,Fall,2022,Evans,59,26,Hybrid
+MATH2030,Elementary Linear Algebra,Mathematics,5,Spring,2023,Robinson,62,49,Hybrid
+MSCM2400,Social Media,Media Studies,0,Fall,2024,Robinson,86,56,In-Person
+MSCM2400,Social Media,Media Studies,0,Spring,2023,Davis,94,67,Online
+MSCM2400,Social Media,Media Studies,2,Fall,2023,Robinson,116,11,In-Person
+MSCM2400,Social Media,Media Studies,5,Spring,2024,Allen,33,14,Hybrid
+BIOL1030,General Biology (Non-Science Major),Biology,3,Fall,2023,White,38,96,Online
+BIOL1030,General Biology (Non-Science Major),Biology,5,Spring,2023,Campbell,98,30,In-Person
+BIOL1030,General Biology (Non-Science Major),Biology,0,Fall,2023,Gray,104,64,Online
+BIOL1030,General Biology (Non-Science Major),Biology,0,Spring,2022,White,99,28,In-Person
+BIOL1030L,General Biology Lab (Non-Science Major),Biology,1,Fall,2022,Edwards,68,72,Online
+BIOL1030L,General Biology Lab (Non-Science Major),Biology,1,Spring,2023,Robinson,52,98,In-Person
+BIOL1030L,General Biology Lab (Non-Science Major),Biology,5,Fall,2023,Jackson,73,89,Hybrid
+BIOL1030L,General Biology Lab (Non-Science Major),Biology,1,Spring,2022,Murphy,74,11,In-Person
+CPSC3140,Operating Systems,Computer Science,0,Fall,2023,Brown,106,17,Online
+CPSC3140,Operating Systems,Computer Science,3,Spring,2024,Stewart,64,53,Online
+CPSC3140,Operating Systems,Computer Science,5,Fall,2023,Edwards,59,84,Hybrid
+CPSC3140,Operating Systems,Computer Science,5,Spring,2022,Moore,90,65,Online
+CPSC3603,Special Topics: Mobile App Development,Computer Science,4,Fall,2024,White,60,73,Online
+CPSC3603,Special Topics: Mobile App Development,Computer Science,2,Spring,2024,Murphy,92,26,Hybrid
+CPSC3603,Special Topics: Mobile App Development,Computer Science,1,Fall,2023,Taylor,37,74,In-Person
+CPSC3603,Special Topics: Mobile App Development,Computer Science,0,Spring,2022,Moore,39,88,Online
+MATH2550,Discrete Structures for Computer Science,Mathematics,4,Fall,2022,Phillips,101,88,Hybrid
+MATH2550,Discrete Structures for Computer Science,Mathematics,1,Spring,2023,Brown,102,11,Online
+MATH2550,Discrete Structures for Computer Science,Mathematics,1,Fall,2024,Young,107,88,Hybrid
+MATH2550,Discrete Structures for Computer Science,Mathematics,0,Spring,2023,Taylor,72,86,Hybrid
+XCOR3010,"Dystopia, Real and Imagined",Core Experience,0,Fall,2023,Thomas,74,35,Online
+XCOR3010,"Dystopia, Real and Imagined",Core Experience,5,Spring,2024,Scott,82,70,Online
+XCOR3010,"Dystopia, Real and Imagined",Core Experience,0,Fall,2024,Morris,53,71,Hybrid
+XCOR3010,"Dystopia, Real and Imagined",Core Experience,2,Spring,2022,White,61,13,Online
+XCOR3020,Afro-Latin America and LA Oral Traditions,Core Experience,4,Fall,2023,Adams,110,67,Hybrid
+XCOR3020,Afro-Latin America and LA Oral Traditions,Core Experience,0,Spring,2023,Jefferson,92,24,In-Person
+XCOR3020,Afro-Latin America and LA Oral Traditions,Core Experience,4,Fall,2022,Phillips,86,30,Online
+XCOR3020,Afro-Latin America and LA Oral Traditions,Core Experience,1,Spring,2024,Jefferson,64,86,In-Person
+CPSC3060,Design and Analysis of Algorithms,Computer Science,5,Fall,2024,Turner,55,18,Online
+CPSC3060,Design and Analysis of Algorithms,Computer Science,2,Spring,2024,Adams,51,14,Hybrid
+CPSC3060,Design and Analysis of Algorithms,Computer Science,3,Fall,2023,Williams,104,78,In-Person
+CPSC3060,Design and Analysis of Algorithms,Computer Science,0,Spring,2023,Hughes,69,16,In-Person
+CPSC3603,Special Topics: Bioinformatics Computing,Computer Science,5,Fall,2024,Harris,107,76,Online
+CPSC3603,Special Topics: Bioinformatics Computing,Computer Science,5,Spring,2022,Hall,62,17,In-Person
+CPSC3603,Special Topics: Bioinformatics Computing,Computer Science,1,Fall,2023,Washington,111,72,Hybrid
+CPSC3603,Special Topics: Bioinformatics Computing,Computer Science,4,Spring,2023,Jefferson,74,33,Hybrid
+CPSC4800,Capstone Project I,Computer Science,3,Fall,2023,Moore,41,53,Online
+CPSC4800,Capstone Project I,Computer Science,5,Spring,2024,Thomas,50,65,Online
+CPSC4800,Capstone Project I,Computer Science,0,Fall,2023,Johnson,68,80,Online
+CPSC4800,Capstone Project I,Computer Science,2,Spring,2024,Davis,58,51,Hybrid
+MGMT3160,Project Management,Business,4,Fall,2024,Baker,50,55,Hybrid
+MGMT3160,Project Management,Business,4,Spring,2022,Baker,60,30,Online
+MGMT3160,Project Management,Business,2,Fall,2023,Edwards,40,96,In-Person
+MGMT3160,Project Management,Business,4,Spring,2022,Young,51,59,In-Person
+STAT2021,Statistical Methods II,Mathematics,1,Fall,2023,Brown,42,35,Hybrid
+STAT2021,Statistical Methods II,Mathematics,5,Spring,2022,Collins,84,13,In-Person
+STAT2021,Statistical Methods II,Mathematics,2,Fall,2023,Hughes,95,66,In-Person
+STAT2021,Statistical Methods II,Mathematics,2,Spring,2023,Gray,99,87,Hybrid
+CPSC3603,Special Topics: Data Analytics,Computer Science,2,Fall,2023,Robinson,109,73,In-Person
+CPSC3603,Special Topics: Data Analytics,Computer Science,4,Spring,2023,King,36,49,Online
+CPSC3603,Special Topics: Data Analytics,Computer Science,5,Fall,2022,Collins,61,96,In-Person
+CPSC3603,Special Topics: Data Analytics,Computer Science,1,Spring,2024,Parker,111,39,Online
+CPSC3900,Computer Science Internship I,Computer Science,1,Fall,2023,Brown,120,47,In-Person
+CPSC3900,Computer Science Internship I,Computer Science,3,Spring,2022,Bell,110,24,Online
+CPSC3900,Computer Science Internship I,Computer Science,0,Fall,2022,Wright,120,44,Hybrid
+CPSC3900,Computer Science Internship I,Computer Science,0,Spring,2023,Bell,76,20,Online
+ENGL4060S,Black Gothic Literature,English,5,Fall,2024,Baker,82,63,In-Person
+ENGL4060S,Black Gothic Literature,English,0,Spring,2023,Campbell,105,79,In-Person
+ENGL4060S,Black Gothic Literature,English,3,Fall,2023,Phillips,117,50,Online
+ENGL4060S,Black Gothic Literature,English,0,Spring,2023,Adams,114,49,Hybrid
+SPAN1010,Elementary Spanish,Languages,2,Fall,2024,Phillips,71,37,Online
+SPAN1010,Elementary Spanish,Languages,2,Spring,2023,Nelson,79,28,Online
+SPAN1010,Elementary Spanish,Languages,1,Fall,2023,Allen,49,35,Online
+SPAN1010,Elementary Spanish,Languages,4,Spring,2023,Alexander,88,45,Online
+AADS2000,Introduction to African American History and Culture,African American Studies,1,Fall,2022,Moore,76,61,Hybrid
+AADS2000,Introduction to African American History and Culture,African American Studies,1,Spring,2024,Young,32,33,Hybrid
+AADS2000,Introduction to African American History and Culture,African American Studies,1,Fall,2023,Turner,119,52,Hybrid
+AADS2000,Introduction to African American History and Culture,African American Studies,3,Spring,2023,Young,72,71,In-Person
+ART2110,History of Art I,Art,1,Fall,2022,Turner,88,51,Hybrid
+ART2110,History of Art I,Art,1,Spring,2024,White,53,69,In-Person
+ART2110,History of Art I,Art,4,Fall,2023,Johnson,73,42,In-Person
+ART2110,History of Art I,Art,5,Spring,2022,Jefferson,111,99,Hybrid
+CHIN1010,Elementary Chinese,Languages,4,Fall,2023,Walker,31,86,Hybrid
+CHIN1010,Elementary Chinese,Languages,1,Spring,2022,Hall,91,31,Hybrid
+CHIN1010,Elementary Chinese,Languages,1,Fall,2023,Roberts,69,47,Online
+CHIN1010,Elementary Chinese,Languages,4,Spring,2023,Morris,32,69,In-Person
+CPSC4805,Capstone Project II,Computer Science,0,Fall,2023,Young,72,47,Hybrid
+CPSC4805,Capstone Project II,Computer Science,4,Spring,2022,Baker,113,23,Online
+CPSC4805,Capstone Project II,Computer Science,1,Fall,2024,White,69,17,In-Person
+CPSC4805,Capstone Project II,Computer Science,5,Spring,2022,Walker,54,88,Hybrid
+CPSC4999,Senior Comprehensives,Computer Science,4,Fall,2023,Adams,93,25,Hybrid
+CPSC4999,Senior Comprehensives,Computer Science,2,Spring,2022,Phillips,67,64,Online
+CPSC4999,Senior Comprehensives,Computer Science,1,Fall,2023,Edwards,111,70,In-Person
+CPSC4999,Senior Comprehensives,Computer Science,4,Spring,2022,Moore,72,50,Hybrid
+CPSC4999P,Senior Comprehensives Programming,Computer Science,2,Fall,2023,Cook,86,16,Hybrid
+CPSC4999P,Senior Comprehensives Programming,Computer Science,1,Spring,2022,Thomas,42,21,Hybrid
+CPSC4999P,Senior Comprehensives Programming,Computer Science,1,Fall,2023,Murphy,98,48,In-Person
+CPSC4999P,Senior Comprehensives Programming,Computer Science,2,Spring,2024,Parker,105,54,In-Person
+XCOR3010,"Race, Culture, and Communication",Core Experience,3,Fall,2023,Harris,110,38,In-Person
+XCOR3010,"Race, Culture, and Communication",Core Experience,4,Spring,2024,Jackson,112,69,Hybrid
+XCOR3010,"Race, Culture, and Communication",Core Experience,3,Fall,2023,Stewart,90,57,In-Person
+XCOR3010,"Race, Culture, and Communication",Core Experience,5,Spring,2024,Nelson,82,81,In-Person

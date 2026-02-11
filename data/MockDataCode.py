@@ -1,6 +1,7 @@
 import random
 import pandas as pd
-# Sample data representing courses with (Course Code, Course Name, Department, Credits)
+
+
 courses = [
  ("CHEM1150", "General Chemistry I", "Chemistry", 100),
     ("CHEM1151", "General Chemistry I Lab", "Chemistry", 100),
@@ -81,7 +82,12 @@ instructors = [  "Washington", "Jefferson", "Jackson", "Harris", "Robinson",
     "Johnson", "Williams", "Brown", "Davis", "Thomas",
     "Moore", "Taylor", "White", "Hughes", "Alexander"]
 
-semesters = ["Fall 2022", "Spring 2023", "Fall 2023", "Spring 2024"]
+semesters = ["Fall", "Spring", "Fall", "Spring"]
+
+year = [2022, 2023, 2023, 2024]
+
+modalities = ["In-Person", "Online", "Hybrid"]
+
 
 records = []
 
@@ -99,9 +105,12 @@ for course in courses:
             "Department": department,
             "Credits": credits,
             "Semester": semester,
+            "Year": random.choice(year),
             "Instructor": instructor,
             "Capacity": capacity,
-            "Enrollment": enrollment
+            "Enrollment": enrollment,
+            "Modalities": random.choice(modalities)
+            
         })
 
 df = pd.DataFrame(records)
