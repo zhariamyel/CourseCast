@@ -1,0 +1,1830 @@
+[
+  {
+    "code":"AADS2000",
+    "name":"Introduction to African American History and Culture",
+    "department":"African American Studies",
+    "instructor":"Young",
+    "credits":1,
+    "capacity":32,
+    "currentEnrollment":33,
+    "forecast":32,
+    "confidence":94,
+    "trend":"Falling",
+    "term":"Spring 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":71
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":52
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":33
+      }
+    ]
+  },
+  {
+    "code":"ACCT2010",
+    "name":"Principles of Accounting I",
+    "department":"Business",
+    "instructor":"Thomas",
+    "credits":4,
+    "capacity":85,
+    "currentEnrollment":78,
+    "forecast":79,
+    "confidence":89,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"High Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":20
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":88
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":78
+      }
+    ]
+  },
+  {
+    "code":"ACCT2020",
+    "name":"Principles of Accounting II",
+    "department":"Business",
+    "instructor":"Taylor",
+    "credits":2,
+    "capacity":91,
+    "currentEnrollment":54,
+    "forecast":54,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Spring 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":87
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":88
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":54
+      }
+    ]
+  },
+  {
+    "code":"ART1010",
+    "name":"Design I",
+    "department":"Art",
+    "instructor":"Hughes",
+    "credits":0,
+    "capacity":96,
+    "currentEnrollment":32,
+    "forecast":30,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2024",
+        "enrollment":25
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":45
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":32
+      }
+    ]
+  },
+  {
+    "code":"ART2110",
+    "name":"History of Art I",
+    "department":"Art",
+    "instructor":"White",
+    "credits":1,
+    "capacity":53,
+    "currentEnrollment":69,
+    "forecast":72,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Spring 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Fall 2022",
+        "enrollment":51
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":42
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":69
+      }
+    ]
+  },
+  {
+    "code":"BIOL1030",
+    "name":"General Biology (Non-Science Major)",
+    "department":"Biology",
+    "instructor":"Gray",
+    "credits":0,
+    "capacity":104,
+    "currentEnrollment":64,
+    "forecast":63,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2023",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":30
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":96
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":64
+      }
+    ]
+  },
+  {
+    "code":"BIOL1030L",
+    "name":"General Biology Lab (Non-Science Major)",
+    "department":"Biology",
+    "instructor":"Jackson",
+    "credits":5,
+    "capacity":73,
+    "currentEnrollment":89,
+    "forecast":89,
+    "confidence":94,
+    "trend":"Falling",
+    "term":"Fall 2023",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Fall 2022",
+        "enrollment":72
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":98
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":89
+      }
+    ]
+  },
+  {
+    "code":"BIOL1100",
+    "name":"Principles of Biology",
+    "department":"Biology",
+    "instructor":"Baker",
+    "credits":1,
+    "capacity":55,
+    "currentEnrollment":63,
+    "forecast":60,
+    "confidence":94,
+    "trend":"Falling",
+    "term":"Spring 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":16
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":86
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":63
+      }
+    ]
+  },
+  {
+    "code":"BIOL1200",
+    "name":"Principles of Biology II",
+    "department":"Biology",
+    "instructor":"Turner",
+    "credits":2,
+    "capacity":91,
+    "currentEnrollment":80,
+    "forecast":80,
+    "confidence":89,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"High Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":16
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":51
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":80
+      }
+    ]
+  },
+  {
+    "code":"CHEM1150",
+    "name":"General Chemistry I",
+    "department":"Chemistry",
+    "instructor":"Jackson",
+    "credits":1,
+    "capacity":74,
+    "currentEnrollment":74,
+    "forecast":73,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Spring 2023",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Fall 2022",
+        "enrollment":10
+      },
+      {
+        "term":"Fall 2022",
+        "enrollment":60
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":74
+      }
+    ]
+  },
+  {
+    "code":"CHEM1151",
+    "name":"General Chemistry I Lab",
+    "department":"Chemistry",
+    "instructor":"Hall",
+    "credits":5,
+    "capacity":54,
+    "currentEnrollment":33,
+    "forecast":33,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2023",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":97
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":79
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":33
+      }
+    ]
+  },
+  {
+    "code":"CHEM1160",
+    "name":"General Chemistry II",
+    "department":"Chemistry",
+    "instructor":"Evans",
+    "credits":2,
+    "capacity":100,
+    "currentEnrollment":74,
+    "forecast":75,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2022",
+        "enrollment":67
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":84
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":74
+      }
+    ]
+  },
+  {
+    "code":"CHIN1010",
+    "name":"Elementary Chinese",
+    "department":"Languages",
+    "instructor":"Roberts",
+    "credits":1,
+    "capacity":69,
+    "currentEnrollment":47,
+    "forecast":46,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2023",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":69
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":86
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":47
+      }
+    ]
+  },
+  {
+    "code":"CMST1010",
+    "name":"Fundamentals of Public Speaking",
+    "department":"Communication",
+    "instructor":"White",
+    "credits":1,
+    "capacity":68,
+    "currentEnrollment":96,
+    "forecast":95,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":64
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":93
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":96
+      }
+    ]
+  },
+  {
+    "code":"COMM1000",
+    "name":"Fundamentals of Speech",
+    "department":"Communication",
+    "instructor":"King",
+    "credits":0,
+    "capacity":44,
+    "currentEnrollment":95,
+    "forecast":94,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Spring 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":92
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":77
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":95
+      }
+    ]
+  },
+  {
+    "code":"CPSC1005",
+    "name":"Intro to PCs and Software Applications",
+    "department":"Computer Science",
+    "instructor":"Edwards",
+    "credits":3,
+    "capacity":78,
+    "currentEnrollment":75,
+    "forecast":77,
+    "confidence":94,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":40
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":84
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":75
+      }
+    ]
+  },
+  {
+    "code":"CPSC1724",
+    "name":"Intro to Computer Science",
+    "department":"Computer Science",
+    "instructor":"Baker",
+    "credits":1,
+    "capacity":105,
+    "currentEnrollment":25,
+    "forecast":25,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Spring 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":93
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":36
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":25
+      }
+    ]
+  },
+  {
+    "code":"CPSC2120",
+    "name":"Computer Organization and Architecture",
+    "department":"Computer Science",
+    "instructor":"Edwards",
+    "credits":5,
+    "capacity":46,
+    "currentEnrollment":66,
+    "forecast":68,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Fall 2022",
+        "enrollment":99
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":52
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":66
+      }
+    ]
+  },
+  {
+    "code":"CPSC2735",
+    "name":"Data Structures and Lab",
+    "department":"Computer Science",
+    "instructor":"Carter",
+    "credits":5,
+    "capacity":96,
+    "currentEnrollment":50,
+    "forecast":49,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Fall 2023",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2022",
+        "enrollment":10
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":18
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":50
+      }
+    ]
+  },
+  {
+    "code":"CPSC2740",
+    "name":"Software Development",
+    "department":"Computer Science",
+    "instructor":"Robinson",
+    "credits":1,
+    "capacity":107,
+    "currentEnrollment":97,
+    "forecast":96,
+    "confidence":89,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"High Demand",
+    "history":[
+      {
+        "term":"Spring 2022",
+        "enrollment":69
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":24
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":97
+      }
+    ]
+  },
+  {
+    "code":"CPSC3060",
+    "name":"Design and Analysis of Algorithms",
+    "department":"Computer Science",
+    "instructor":"Turner",
+    "credits":5,
+    "capacity":55,
+    "currentEnrollment":18,
+    "forecast":19,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":78
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":14
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":18
+      }
+    ]
+  },
+  {
+    "code":"CPSC3140",
+    "name":"Operating Systems",
+    "department":"Computer Science",
+    "instructor":"Stewart",
+    "credits":3,
+    "capacity":64,
+    "currentEnrollment":53,
+    "forecast":53,
+    "confidence":89,
+    "trend":"Falling",
+    "term":"Spring 2024",
+    "conditions":"High Demand",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":17
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":84
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":53
+      }
+    ]
+  },
+  {
+    "code":"CPSC3603",
+    "name":"Special Topics: Bioinformatics Computing",
+    "department":"Computer Science",
+    "instructor":"Harris",
+    "credits":5,
+    "capacity":107,
+    "currentEnrollment":76,
+    "forecast":75,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2022",
+        "enrollment":17
+      },
+      {
+        "term":"Fall 2022",
+        "enrollment":96
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":33
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":49
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":74
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":72
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":73
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":26
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":39
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":73
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":76
+      }
+    ]
+  },
+  {
+    "code":"CPSC3710",
+    "name":"Database Systems",
+    "department":"Computer Science",
+    "instructor":"Allen",
+    "credits":0,
+    "capacity":75,
+    "currentEnrollment":36,
+    "forecast":39,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Spring 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":25
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":68
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":36
+      }
+    ]
+  },
+  {
+    "code":"CPSC3900",
+    "name":"Computer Science Internship I",
+    "department":"Computer Science",
+    "instructor":"Brown",
+    "credits":1,
+    "capacity":120,
+    "currentEnrollment":47,
+    "forecast":46,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Fall 2023",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2022",
+        "enrollment":44
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":20
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":47
+      }
+    ]
+  },
+  {
+    "code":"CPSC4800",
+    "name":"Capstone Project I",
+    "department":"Computer Science",
+    "instructor":"Davis",
+    "credits":2,
+    "capacity":58,
+    "currentEnrollment":51,
+    "forecast":51,
+    "confidence":89,
+    "trend":"Falling",
+    "term":"Spring 2024",
+    "conditions":"High Demand",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":80
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":65
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":51
+      }
+    ]
+  },
+  {
+    "code":"CPSC4805",
+    "name":"Capstone Project II",
+    "department":"Computer Science",
+    "instructor":"White",
+    "credits":1,
+    "capacity":69,
+    "currentEnrollment":17,
+    "forecast":18,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2022",
+        "enrollment":88
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":47
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":17
+      }
+    ]
+  },
+  {
+    "code":"CPSC4999",
+    "name":"Senior Comprehensives",
+    "department":"Computer Science",
+    "instructor":"Edwards",
+    "credits":1,
+    "capacity":111,
+    "currentEnrollment":70,
+    "forecast":69,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Fall 2023",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2022",
+        "enrollment":50
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":25
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":70
+      }
+    ]
+  },
+  {
+    "code":"CPSC4999P",
+    "name":"Senior Comprehensives Programming",
+    "department":"Computer Science",
+    "instructor":"Parker",
+    "credits":2,
+    "capacity":105,
+    "currentEnrollment":54,
+    "forecast":49,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Spring 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":16
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":48
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":54
+      }
+    ]
+  },
+  {
+    "code":"ECON2010",
+    "name":"Principles of Microeconomics",
+    "department":"Economics",
+    "instructor":"Wright",
+    "credits":5,
+    "capacity":73,
+    "currentEnrollment":10,
+    "forecast":10,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":36
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":76
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":10
+      }
+    ]
+  },
+  {
+    "code":"ECON2020",
+    "name":"Principles of Macroeconomics",
+    "department":"Economics",
+    "instructor":"Johnson",
+    "credits":3,
+    "capacity":89,
+    "currentEnrollment":24,
+    "forecast":23,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Spring 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2022",
+        "enrollment":86
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":51
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":24
+      }
+    ]
+  },
+  {
+    "code":"ENGL1010",
+    "name":"English Composition and Rhetoric",
+    "department":"English",
+    "instructor":"Adams",
+    "credits":3,
+    "capacity":110,
+    "currentEnrollment":67,
+    "forecast":67,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":15
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":100
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":67
+      }
+    ]
+  },
+  {
+    "code":"ENGL1020",
+    "name":"English Composition and Literature",
+    "department":"English",
+    "instructor":"Carter",
+    "credits":3,
+    "capacity":40,
+    "currentEnrollment":18,
+    "forecast":19,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Spring 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2022",
+        "enrollment":11
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":21
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":18
+      }
+    ]
+  },
+  {
+    "code":"ENGL1200",
+    "name":"English Composition II",
+    "department":"English",
+    "instructor":"Campbell",
+    "credits":5,
+    "capacity":56,
+    "currentEnrollment":82,
+    "forecast":82,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Fall 2023",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":27
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":27
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":82
+      }
+    ]
+  },
+  {
+    "code":"ENGL3185",
+    "name":"Black Hair Narratives",
+    "department":"English",
+    "instructor":"Young",
+    "credits":4,
+    "capacity":98,
+    "currentEnrollment":87,
+    "forecast":87,
+    "confidence":89,
+    "trend":"Rising",
+    "term":"Fall 2023",
+    "conditions":"High Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":90
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":41
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":87
+      }
+    ]
+  },
+  {
+    "code":"ENGL4060S",
+    "name":"Black Gothic Literature",
+    "department":"English",
+    "instructor":"Baker",
+    "credits":5,
+    "capacity":82,
+    "currentEnrollment":63,
+    "forecast":67,
+    "confidence":89,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"High Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":49
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":50
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":63
+      }
+    ]
+  },
+  {
+    "code":"FINC1070",
+    "name":"Personal Finance",
+    "department":"Finance",
+    "instructor":"Young",
+    "credits":1,
+    "capacity":41,
+    "currentEnrollment":11,
+    "forecast":12,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":80
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":37
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":11
+      }
+    ]
+  },
+  {
+    "code":"HIST1030",
+    "name":"World Civilizations to 1500",
+    "department":"History",
+    "instructor":"Stewart",
+    "credits":1,
+    "capacity":56,
+    "currentEnrollment":55,
+    "forecast":56,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":25
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":39
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":55
+      }
+    ]
+  },
+  {
+    "code":"HIST1110",
+    "name":"World Civilization I",
+    "department":"History",
+    "instructor":"Campbell",
+    "credits":0,
+    "capacity":52,
+    "currentEnrollment":76,
+    "forecast":76,
+    "confidence":94,
+    "trend":"Falling",
+    "term":"Fall 2023",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":38
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":98
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":76
+      }
+    ]
+  },
+  {
+    "code":"HIST1120",
+    "name":"World Civilization II",
+    "department":"History",
+    "instructor":"Gray",
+    "credits":4,
+    "capacity":117,
+    "currentEnrollment":10,
+    "forecast":10,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":84
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":75
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":10
+      }
+    ]
+  },
+  {
+    "code":"MATH1030I",
+    "name":"Intensive Precalculus",
+    "department":"Mathematics",
+    "instructor":"Davis",
+    "credits":4,
+    "capacity":104,
+    "currentEnrollment":87,
+    "forecast":87,
+    "confidence":89,
+    "trend":"Falling",
+    "term":"Fall 2023",
+    "conditions":"High Demand",
+    "history":[
+      {
+        "term":"Fall 2022",
+        "enrollment":30
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":88
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":87
+      }
+    ]
+  },
+  {
+    "code":"MATH1070",
+    "name":"Introductory Calculus",
+    "department":"Mathematics",
+    "instructor":"Turner",
+    "credits":1,
+    "capacity":82,
+    "currentEnrollment":45,
+    "forecast":45,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":27
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":16
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":45
+      }
+    ]
+  },
+  {
+    "code":"MATH1100",
+    "name":"College Algebra",
+    "department":"Mathematics",
+    "instructor":"Morris",
+    "credits":5,
+    "capacity":78,
+    "currentEnrollment":92,
+    "forecast":91,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Spring 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":84
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":57
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":92
+      }
+    ]
+  },
+  {
+    "code":"MATH2030",
+    "name":"Elementary Linear Algebra",
+    "department":"Mathematics",
+    "instructor":"Hughes",
+    "credits":0,
+    "capacity":68,
+    "currentEnrollment":95,
+    "forecast":95,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Spring 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Fall 2022",
+        "enrollment":26
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":49
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":95
+      }
+    ]
+  },
+  {
+    "code":"MATH2550",
+    "name":"Discrete Structures for Computer Science",
+    "department":"Mathematics",
+    "instructor":"Young",
+    "credits":1,
+    "capacity":107,
+    "currentEnrollment":88,
+    "forecast":88,
+    "confidence":89,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"High Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":11
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":86
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":88
+      }
+    ]
+  },
+  {
+    "code":"MGMT3160",
+    "name":"Project Management",
+    "department":"Business",
+    "instructor":"Baker",
+    "credits":4,
+    "capacity":50,
+    "currentEnrollment":55,
+    "forecast":55,
+    "confidence":94,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Spring 2022",
+        "enrollment":59
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":96
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":55
+      }
+    ]
+  },
+  {
+    "code":"MSCM2400",
+    "name":"Social Media",
+    "department":"Media Studies",
+    "instructor":"Robinson",
+    "credits":0,
+    "capacity":86,
+    "currentEnrollment":56,
+    "forecast":56,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":11
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":14
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":56
+      }
+    ]
+  },
+  {
+    "code":"MSCM2590",
+    "name":"Black Cinema",
+    "department":"Media Studies",
+    "instructor":"Adams",
+    "credits":1,
+    "capacity":58,
+    "currentEnrollment":30,
+    "forecast":30,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Spring 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":83
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":25
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":30
+      }
+    ]
+  },
+  {
+    "code":"PHIL1010",
+    "name":"Introduction to Philosophy",
+    "department":"Philosophy",
+    "instructor":"Collins",
+    "credits":5,
+    "capacity":119,
+    "currentEnrollment":53,
+    "forecast":50,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Spring 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":71
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":38
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":53
+      }
+    ]
+  },
+  {
+    "code":"PHIL1040",
+    "name":"Happiness and the Meaning of Life",
+    "department":"Philosophy",
+    "instructor":"Evans",
+    "credits":4,
+    "capacity":107,
+    "currentEnrollment":36,
+    "forecast":39,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2023",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":55
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":47
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":36
+      }
+    ]
+  },
+  {
+    "code":"PHIL2040",
+    "name":"Logic",
+    "department":"Philosophy",
+    "instructor":"Morris",
+    "credits":2,
+    "capacity":54,
+    "currentEnrollment":98,
+    "forecast":97,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Spring 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":13
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":24
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":98
+      }
+    ]
+  },
+  {
+    "code":"PHYS1010",
+    "name":"Introductory Physics I",
+    "department":"Physics",
+    "instructor":"Scott",
+    "credits":2,
+    "capacity":65,
+    "currentEnrollment":79,
+    "forecast":81,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Fall 2023",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":51
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":47
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":79
+      }
+    ]
+  },
+  {
+    "code":"PHYS1020",
+    "name":"Introductory Physics II",
+    "department":"Physics",
+    "instructor":"Phillips",
+    "credits":4,
+    "capacity":43,
+    "currentEnrollment":39,
+    "forecast":37,
+    "confidence":89,
+    "trend":"Falling",
+    "term":"Fall 2023",
+    "conditions":"High Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":35
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":73
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":39
+      }
+    ]
+  },
+  {
+    "code":"PSYC1000",
+    "name":"Introduction to Psychology",
+    "department":"Psychology",
+    "instructor":"Davis",
+    "credits":1,
+    "capacity":71,
+    "currentEnrollment":89,
+    "forecast":87,
+    "confidence":94,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":50
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":100
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":89
+      }
+    ]
+  },
+  {
+    "code":"PSYC1010",
+    "name":"Introduction to Psychology",
+    "department":"Psychology",
+    "instructor":"White",
+    "credits":0,
+    "capacity":39,
+    "currentEnrollment":73,
+    "forecast":72,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Fall 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Spring 2024",
+        "enrollment":56
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":38
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":73
+      }
+    ]
+  },
+  {
+    "code":"SOCI2000",
+    "name":"Introduction to Sociology",
+    "department":"Sociology",
+    "instructor":"Davis",
+    "credits":5,
+    "capacity":43,
+    "currentEnrollment":10,
+    "forecast":13,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2024",
+        "enrollment":97
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":67
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":10
+      }
+    ]
+  },
+  {
+    "code":"SPAN1010",
+    "name":"Elementary Spanish",
+    "department":"Languages",
+    "instructor":"Phillips",
+    "credits":2,
+    "capacity":71,
+    "currentEnrollment":37,
+    "forecast":36,
+    "confidence":84,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":56
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":28
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":45
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":83
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":35
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":53
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":37
+      }
+    ]
+  },
+  {
+    "code":"STAT2010",
+    "name":"Statistical Methods I",
+    "department":"Mathematics",
+    "instructor":"Johnson",
+    "credits":1,
+    "capacity":79,
+    "currentEnrollment":71,
+    "forecast":78,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Fall 2023",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":100
+      },
+      {
+        "term":"Spring 2023",
+        "enrollment":27
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":71
+      }
+    ]
+  },
+  {
+    "code":"STAT2021",
+    "name":"Statistical Methods II",
+    "department":"Mathematics",
+    "instructor":"Hughes",
+    "credits":2,
+    "capacity":95,
+    "currentEnrollment":66,
+    "forecast":71,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Fall 2023",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":87
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":35
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":66
+      }
+    ]
+  },
+  {
+    "code":"THEO1100",
+    "name":"The Christian Faith",
+    "department":"Theology",
+    "instructor":"Taylor",
+    "credits":4,
+    "capacity":116,
+    "currentEnrollment":88,
+    "forecast":90,
+    "confidence":84,
+    "trend":"Rising",
+    "term":"Fall 2023",
+    "conditions":"Moderate Demand",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":16
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":61
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":88
+      }
+    ]
+  },
+  {
+    "code":"XCOR1000",
+    "name":"College Experience",
+    "department":"Core Experience",
+    "instructor":"Mitchell",
+    "credits":4,
+    "capacity":63,
+    "currentEnrollment":47,
+    "forecast":53,
+    "confidence":89,
+    "trend":"Rising",
+    "term":"Spring 2024",
+    "conditions":"High Demand",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":84
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":41
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":47
+      }
+    ]
+  },
+  {
+    "code":"XCOR3010",
+    "name":"Dystopia, Real and Imagined",
+    "department":"Core Experience",
+    "instructor":"Morris",
+    "credits":0,
+    "capacity":53,
+    "currentEnrollment":71,
+    "forecast":73,
+    "confidence":94,
+    "trend":"Falling",
+    "term":"Fall 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Fall 2023",
+        "enrollment":35
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":38
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":57
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":70
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":69
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":81
+      },
+      {
+        "term":"Fall 2024",
+        "enrollment":71
+      }
+    ]
+  },
+  {
+    "code":"XCOR3020",
+    "name":"Afro-Latin America and LA Oral Traditions",
+    "department":"Core Experience",
+    "instructor":"Jefferson",
+    "credits":1,
+    "capacity":64,
+    "currentEnrollment":86,
+    "forecast":83,
+    "confidence":94,
+    "trend":"Rising",
+    "term":"Spring 2024",
+    "conditions":"Near Full",
+    "history":[
+      {
+        "term":"Spring 2023",
+        "enrollment":24
+      },
+      {
+        "term":"Fall 2023",
+        "enrollment":67
+      },
+      {
+        "term":"Spring 2024",
+        "enrollment":86
+      }
+    ]
+  }
+]
