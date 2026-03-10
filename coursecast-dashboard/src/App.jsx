@@ -79,10 +79,11 @@ export default function App() {
         <header className="topbar">
           <div>
             <div className="brand">
-              <CloudSun size={22} />
-              <span>CourseCast Forecast</span>
-            </div>
-            <h1>Enrollment Weather</h1>
+  <img src="/seal-horizontal.png" alt="Xavier University Logo" className="logo"/>
+  <div className="brand-text">
+  </div>
+</div>
+            <h1>CourseCast</h1>
             <p className="subtitle">
               A weather style dashboard for course demand and enrollment forecasting.
             </p>
